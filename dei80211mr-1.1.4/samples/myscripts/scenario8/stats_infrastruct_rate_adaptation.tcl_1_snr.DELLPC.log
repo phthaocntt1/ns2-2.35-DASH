@@ -1,0 +1,3 @@
+1 1 50 1 -4.650 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc 82009 82011 82009     2     0  RXFail   830   830     0     0  RXFailNoise   830   830     0     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost  1522188   562463 
+-4.650 -4.650  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2 81668     2 81666     0  RXFail   341     0   341     0  RXFailNoise   341     0   341     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 

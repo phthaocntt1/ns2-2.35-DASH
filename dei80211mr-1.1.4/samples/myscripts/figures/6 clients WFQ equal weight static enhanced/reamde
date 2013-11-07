@@ -1,0 +1,5 @@
+we want to focus on how the bitrate apdatation policy have an effect on the client's  behavior.
+So we make some modifications so that every client starts playing once it receives the first segment,
+and stops only once 3 packets have been in buffer.
+The only different behaviour is the approach they adopt to request the next segment.
+

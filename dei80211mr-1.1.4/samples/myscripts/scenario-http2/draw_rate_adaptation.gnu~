@@ -1,0 +1,6 @@
+# gnuplot scripts
+set terminal postscript eps color 
+set xlabel "time (s)"
+set ylabel "Physical Rate"
+set output "Rate_Adaptation_History_AP_4.eps"
+plot "AP_rate_4.file" u 1:4 w p title "client"

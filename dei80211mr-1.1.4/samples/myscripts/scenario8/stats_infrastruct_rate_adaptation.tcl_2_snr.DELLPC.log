@@ -1,0 +1,6 @@
+1 2 50 1 -4.650 
+ TxSucc     1     0     0  TxFail     0     0     0  RXSucc  1053 163229 82161 81068     0  RXFail   882   854    28     0  RXFailNoise   882   854    28     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost  1528765  1270165 
+-4.650 -4.650  0.000   TxSucc     1     0     0  TxFail     0     0     0  RXSucc     1  1050     1  1049     0  RXFail     0     0     0     0  RXFailNoise     0     0     0     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 2 50 2  1.340 
+ TxSucc     3     0     0  TxFail     0     0     0  RXSucc 81096 83205 82152  1053     0  RXFail   861   861     0     0  RXFailNoise   861   861     0     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost  1528765   577608 
+ 1.340  1.340  0.000   TxSucc     3     0     0  TxFail     0     0     0  RXSucc     3 81034     3 81031     0  RXFail    61     0    61     0  RXFailNoise    61     0    61     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 

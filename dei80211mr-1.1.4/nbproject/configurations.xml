@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="80">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df name="dei80211mr-1.1.4"
+        root="/home/lapmore/Programs/ns-allinone-2.35/dei80211mr-1.1.4">
+      <df name="autom4te.cache">
+      </df>
+      <df name="m4">
+      </df>
+      <df name="samples">
+        <df name="awkscripts">
+        </df>
+        <df name="myscripts">
+          <df name="draw">
+          </df>
+          <df name="figures">
+            <df name="6 AIMD clients WFQ adaptive weight static">
+            </df>
+            <df name="6 AIMD clients WFQ equal weight static">
+            </df>
+            <df name="6 Android clients WFQ adaptive weight static">
+            </df>
+            <df name="6 Android clients WFQ equal weight static">
+            </df>
+            <df name="6 clients 4 android 2 VLC WFQ equal weight static">
+            </df>
+            <df name="6 clients FIFO 1st moving">
+            </df>
+            <df name="6 clients RR 1st moving">
+            </df>
+            <df name="6 clients RR 1st moving with +1 -1">
+            </df>
+            <df name="6 clients RR 1st moving with _+1 -N">
+            </df>
+            <df name="6 clients WF2Q 1st moving">
+            </df>
+            <df name="6 clients WFQ adaptive weight static">
+            </df>
+            <df name="6 clients WFQ equal weight static">
+            </df>
+            <df name="6 clients WFQ equal weight static enhanced">
+            </df>
+            <df name="6 clients WFQ exp weight static">
+            </df>
+            <df name="6 clients WFQ log weight static">
+            </df>
+            <df name="6 clients WFQ square weight static">
+            </df>
+            <df name="6 clients WFQ square weights enhanced 1">
+            </df>
+            <df name="6 clients WFQ square weights enhanced 2">
+            </df>
+            <df name="new">
+              <df name="6 clients 4 android 2 vlc">
+              </df>
+              <df name="6 clients 4 android 2 vlc original">
+              </df>
+            </df>
+            <df name="new-move">
+              <df name="6 clients 4 android 2 vlc first moving http redirecting">
+              </df>
+              <df name="6 clients 4 android 2 vlc first moving no http redirecting">
+              </df>
+            </df>
+          </df>
+          <df name="figures-mobile">
+            <df name="6 clients 1st moving WFQ equal weight">
+            </df>
+          </df>
+          <df name="figures-new">
+            <df name="all android and VLC 0.25">
+            </df>
+            <df name="AP no smoothing 0.9">
+            </df>
+            <df name="AP smoothing 0.1">
+            </df>
+            <df name="AP smoothing 0.1 no restriction on rtrend">
+            </df>
+          </df>
+          <df name="scenario-fulltcp">
+          </df>
+          <df name="scenario-http">
+          </df>
+          <df name="scenario-http2">
+          </df>
+          <df name="scenario-http3-moving">
+          </df>
+          <df name="scenario1">
+          </df>
+          <df name="scenario2">
+          </df>
+          <df name="scenario3">
+          </df>
+          <df name="scenario4">
+          </df>
+          <df name="scenario5">
+          </df>
+          <df name="scenario6">
+          </df>
+          <df name="scenario7">
+          </df>
+          <df name="scenario8">
+          </df>
+          <df name="ubicomp-data">
+            <df name="scenario 1">
+              <df name="FIFO">
+              </df>
+              <df name="PF">
+              </df>
+              <df name="PF-URL">
+              </df>
+              <df name="RR">
+              </df>
+            </df>
+            <df name="scenario 2">
+              <df name="FIFO">
+              </df>
+              <df name="PF">
+              </df>
+              <df name="PF-URL">
+                <df name="0.6-0.7">
+                </df>
+                <df name="0.6-0.8">
+                </df>
+                <df name="0.6-0.9">
+                </df>
+              </df>
+              <df name="RR">
+              </df>
+            </df>
+            <df name="scenario 3">
+              <df name="FIFO">
+              </df>
+              <df name="FP">
+              </df>
+              <df name="FP-URL">
+              </df>
+              <df name="RR">
+              </df>
+            </df>
+            <df name="scenario 4">
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="src">
+        <df name="adt">
+          <in>DLList.cc</in>
+          <in>DLList.h</in>
+          <in>NSNode.cc</in>
+          <in>NSNode.h</in>
+          <in>Object.cc</in>
+          <in>Object.h</in>
+          <in>Position.cc</in>
+          <in>Position.h</in>
+        </df>
+        <df name="dashll">
+          <in>DashLL.cc</in>
+          <in>DashLL.h</in>
+        </df>
+        <in>InitTcl.cc</in>
+        <in>Mac80211EventHandler.cc</in>
+        <in>Mac80211EventHandler.h</in>
+        <in>PER.cc</in>
+        <in>PER.h</in>
+        <in>arf.cc</in>
+        <in>arf.h</in>
+        <in>deipropagation.h</in>
+        <in>libinit.cc</in>
+        <in>mac-802_11mr.cc</in>
+        <in>mac-802_11mr.h</in>
+        <in>mac-timersmr.cc</in>
+        <in>mac-timersmr.h</in>
+        <in>papropagation.cc</in>
+        <in>papropagation.h</in>
+        <in>peerstats.cc</in>
+        <in>peerstats.h</in>
+        <in>peerstatsdb_static.cc</in>
+        <in>peerstatsdb_static.h</in>
+        <in>phymodes.h</in>
+        <in>power_profile.cc</in>
+        <in>power_profile.h</in>
+        <in>ra-snr.cc</in>
+        <in>ra-snr.h</in>
+        <in>rateadapter.cc</in>
+        <in>rateadapter.h</in>
+        <in>rbar.cc</in>
+        <in>rbar.h</in>
+        <in>test_PER.cc</in>
+        <in>test_power_profile.cc</in>
+        <in>wireless-channelpa.cc</in>
+        <in>wireless-channelpa.h</in>
+        <in>wireless-phymr.cc</in>
+        <in>wireless-phymr.h</in>
+      </df>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>/home/lapmore/Programs/ns-allinone-2.35/dei80211mr-1.1.4/Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>/home/lapmore/Programs/ns-allinone-2.35/dei80211mr-1.1.4</Elem>
+  </sourceRootList>
+  <projectmakefile>/home/lapmore/Programs/ns-allinone-2.35/dei80211mr-1.1.4/Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>/home/lapmore/Programs/ns-allinone-2.35/dei80211mr-1.1.4</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+          <ccTool>
+            <incDir>
+              <pElem>../ns-2.35/link</pElem>
+              <pElem>../ns-2.35/diffusion3/lib/nr</pElem>
+              <pElem>../ns-2.35/asim</pElem>
+              <pElem>../ns-2.35/diffusion3/ns</pElem>
+              <pElem>../ns-2.35/tools</pElem>
+              <pElem>../tclcl-1.20</pElem>
+              <pElem>../ns-2.35/mcast</pElem>
+              <pElem>../ns-2.35/apps</pElem>
+              <pElem>../ns-2.35/tcp</pElem>
+              <pElem>../ns-2.35/sctp</pElem>
+              <pElem>../ns-2.35/mac</pElem>
+              <pElem>src</pElem>
+              <pElem>../ns-2.35/mobile</pElem>
+              <pElem>../ns-2.35/routing</pElem>
+              <pElem>../ns-2.35/diffusion3/filter_core</pElem>
+              <pElem>../ns-2.35/adc</pElem>
+              <pElem>../ns-2.35/diffusion3/lib</pElem>
+              <pElem>../ns-2.35/propagation</pElem>
+              <pElem>src/adt</pElem>
+              <pElem>../ns-2.35/queue</pElem>
+              <pElem>../ns-2.35/pcap</pElem>
+              <pElem>../ns-2.35/diffusion3/lib/main</pElem>
+              <pElem>../include</pElem>
+              <pElem>../ns-2.35</pElem>
+              <pElem>../otcl-1.14</pElem>
+              <pElem>../ns-2.35/common</pElem>
+              <pElem>../ns-2.35/classifier</pElem>
+              <pElem>../ns-2.35/trace</pElem>
+            </incDir>
+            <preprocessorList>
+              <Elem>CPP_NAMESPACE=std</Elem>
+              <Elem>HAVE_DLFCN_H=1</Elem>
+              <Elem>HAVE_INTTYPES_H=1</Elem>
+              <Elem>HAVE_MEMORY_H=1</Elem>
+              <Elem>HAVE_STDINT_H=1</Elem>
+              <Elem>HAVE_STDLIB_H=1</Elem>
+              <Elem>HAVE_STRINGS_H=1</Elem>
+              <Elem>HAVE_STRING_H=1</Elem>
+              <Elem>HAVE_SYS_STAT_H=1</Elem>
+              <Elem>HAVE_SYS_TYPES_H=1</Elem>
+              <Elem>HAVE_UNISTD_H=1</Elem>
+              <Elem>LT_OBJDIR=".libs/"</Elem>
+              <Elem>PACKAGE="dei80211mr"</Elem>
+              <Elem>PACKAGE_BUGREPORT=""</Elem>
+              <Elem>PACKAGE_NAME="dei80211mr"</Elem>
+              <Elem>PACKAGE_STRING="dei80211mr 1.1.4"</Elem>
+              <Elem>PACKAGE_TARNAME="dei80211mr"</Elem>
+              <Elem>PACKAGE_URL=""</Elem>
+              <Elem>PACKAGE_VERSION="1.1.4"</Elem>
+              <Elem>PIC</Elem>
+              <Elem>STDC_HEADERS=1</Elem>
+              <Elem>VERSION="1.1.4"</Elem>
+            </preprocessorList>
+          </ccTool>
+        </makeTool>
+      </makefileType>
+      <item path="/home/lapmore/Programs/ns-allinone-2.35/dei80211mr-1.1.4/src/test_PER.cc"
+            ex="true"
+            tool="1"
+            flavor="0">
+      </item>
+      <item path="/home/lapmore/Programs/ns-allinone-2.35/dei80211mr-1.1.4/src/test_power_profile.cc"
+            ex="true"
+            tool="1"
+            flavor="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

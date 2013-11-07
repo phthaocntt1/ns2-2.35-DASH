@@ -1,0 +1,7 @@
+start time 1.188614, first seg received time 1.478325, start play time 1.973604, initial waiting time 0.784990
+play finish time 921.787380, total play duration 919.813776, while media duration 900
+average bitrate for played video: 2197333.250000 bs, or 2197.333250 kbs
+freeze count 50, freeze ratio 0.277778, total freeze duration 19.813778
+average freeze time 0.396276
+quality change time 13, change ratio 0.072222
+MOS: 3.929132

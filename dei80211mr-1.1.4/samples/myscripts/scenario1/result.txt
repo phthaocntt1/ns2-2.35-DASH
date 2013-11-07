@@ -1,0 +1,6 @@
+node 1 starts at 1.033290e+00 and stops at 51.033290000000001
+Speed of test node: 4 m/s
+node 2 starts at 1.164763e+00 and stops at 51.164763000000001
+node 3 starts at 1.150891e+00 and stops at 51.150891000000001
+node 4 starts at 1.107708e+00 and stops at 51.107708000000002
+num_nodes is set 5

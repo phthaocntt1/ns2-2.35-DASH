@@ -1,0 +1,60 @@
+1 20 50 1 -4.650 
+ TxSucc     1     0     0  TxFail     0     0     0  RXSucc  2845 163760 83305 80455     0  RXFail  1028   890   138     0  RXFailNoise  1028   890   138     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1267372 
+-4.650 -4.650  0.000   TxSucc     1     0     0  TxFail     0     0     0  RXSucc     1  2796     1  2795     0  RXFail    11     0    11     0  RXFailNoise    11     0    11     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 2  1.340 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  1144 165649 83359 82290     0  RXFail   839   835     4     0  RXFailNoise   839   835     4     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1282910 
+ 1.340  1.340  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  1105     2  1103     0  RXFail     2     0     2     0  RXFailNoise     2     0     2     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 3  1.340 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc   567 166220 83355 82865     0  RXFail   845   839     6     0  RXFailNoise   845   839     6     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1237704 
+ 1.340  1.340  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2   530     2   528     0  RXFail     0     0     0     0  RXFailNoise     0     0     0     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 4  1.370 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  3262 163440 83318 80122     0  RXFail   929   876    53     0  RXFailNoise   929   876    53     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1213622 
+ 1.370  1.370  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  3225     2  3223     0  RXFail     1     0     1     0  RXFailNoise     1     0     1     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 5  4.380 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  3099 163673 83338 80335     0  RXFail   860   856     4     0  RXFailNoise   860   856     4     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1266403 
+ 4.380  4.380  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  3062     2  3060     0  RXFail     0     0     0     0  RXFailNoise     0     0     0     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 6  2.797 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  2408 164350 83326 81024     0  RXFail   874   868     6     0  RXFailNoise   874   868     6     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1271688 
+ 2.797  2.797  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  2369     2  2367     0  RXFail     2     0     2     0  RXFailNoise     2     0     2     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 7  0.630 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  1761 165084 83410 81674     0  RXFail   787   784     3     0  RXFailNoise   787   784     3     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1277664 
+ 0.630  0.630  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  1721     2  1719     0  RXFail     3     0     3     0  RXFailNoise     3     0     3     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 8  0.518 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  2516 164274 83355 80919     0  RXFail   842   839     3     0  RXFailNoise   842   839     3     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1271138 
+ 0.518  0.518  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  2475     2  2473     0  RXFail     4     0     4     0  RXFailNoise     4     0     4     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 9  0.407 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  7671 159113 83347 75766     0  RXFail   848   847     1     0  RXFailNoise   848   847     1     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1226723 
+ 0.407  0.407  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  7614     2  7612     0  RXFail    20     0    20     0  RXFailNoise    20     0    20     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 10  0.298 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  4367 162403 83336 79067     0  RXFail   862   858     4     0  RXFailNoise   862   858     4     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1254991 
+ 0.298  0.298  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  4313     2  4311     0  RXFail    17     0    17     0  RXFailNoise    17     0    17     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 11  0.190 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  3584 163201 83347 79854     0  RXFail   847   847     0     0  RXFailNoise   847   847     0     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1262111 
+ 0.190  0.190  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  3538     2  3536     0  RXFail     9     0     9     0  RXFailNoise     9     0     9     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 12  0.084 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  2188 164634 83390 81244     0  RXFail   810   804     6     0  RXFailNoise   810   804     6     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1273764 
+ 0.084  0.084  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  2146     2  2144     0  RXFail     5     0     5     0  RXFailNoise     5     0     5     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 13 -0.022 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc 18490 148350 83408 64942     0  RXFail   792   786     6     0  RXFailNoise   792   786     6     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1082095 
+-0.022 -0.022  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2 18412     2 18410     0  RXFail    41     0    41     0  RXFailNoise    41     0    41     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 14 -0.126 
+ TxSucc     2     1     0  TxFail     0     0     1  RXSucc  6860 159916 83344 76572     0  RXFail   855   849     6     0  RXFailNoise   855   849     6     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1182943 
+-0.126 -0.126  0.000   TxSucc     2     1     0  TxFail     0     0     1  RXSucc     3  6812     3  6809     0  RXFail    12     0    12     0  RXFailNoise    12     0    12     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 15 -0.229 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  2767 164043 83376 80667     0  RXFail   822   818     4     0  RXFailNoise   822   818     4     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1268506 
+-0.229 -0.229  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  2718     2  2716     0  RXFail    12     0    12     0  RXFailNoise    12     0    12     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 16 -0.330 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  5890 160919 83373 77546     0  RXFail   823   821     2     0  RXFailNoise   823   821     2     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1241536 
+-0.330 -0.330  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  5837     2  5835     0  RXFail    16     0    16     0  RXFailNoise    16     0    16     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 17 -0.431 
+ TxSucc     2     1     0  TxFail     0     0     1  RXSucc  2433 164351 83352 80999     0  RXFail   847   841     6     0  RXFailNoise   847   841     6     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544909  1271894 
+-0.431 -0.431  0.000   TxSucc     2     1     0  TxFail     0     0     1  RXSucc     2  2388     2  2386     0  RXFail     9     1     8     0  RXFailNoise     9     1     8     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 18 -0.530 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc  8658 158137 83367 74770     0  RXFail   837   827    10     0  RXFailNoise   837   827    10     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1218277 
+-0.530 -0.530  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2  8590     2  8588     0  RXFail    31     0    31     0  RXFailNoise    31     0    31     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 20 50 19 -0.628 
+ TxSucc     2     1     0  TxFail     0     0     1  RXSucc  3024 163761 83355 80406     0  RXFail   846   838     8     0  RXFailNoise   846   838     8     0  SYN     0     0     0     0  TXA     1     1     0     0  IdleSlost  1544909  1266574 
+-0.628 -0.628  0.000   TxSucc     2     1     0  TxFail     0     0     1  RXSucc     2  2971     2  2969     0  RXFail    16     0    16     0  RXFailNoise    16     0    16     0  SYN     0     0     0     0  TXA     1     1     0     0  IdleSlost        0        0 
+1 20 50 20 -0.725 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc   604 166176 83347 82829     0  RXFail   852   847     5     0  RXFailNoise   852   847     5     0  SYN     1     1     0     0  TXA     0     0     0     0  IdleSlost  1544912  1287577 
+-0.725 -0.725  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2   563     2   561     0  RXFail     4     0     4     0  RXFailNoise     4     0     4     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 

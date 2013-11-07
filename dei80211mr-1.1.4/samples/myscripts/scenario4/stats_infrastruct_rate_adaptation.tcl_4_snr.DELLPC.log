@@ -1,0 +1,12 @@
+1 4 50 1 -10.671 
+ TxSucc     1     0     0  TxFail     0     0     0  RXSucc  3058 159995 81795 78200     0  RXFail  1393   861   532     0  RXFailNoise  1393   861   532     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost  1536392  1257058 
+-10.671 -10.671  0.000   TxSucc     1     0     0  TxFail     0     0     0  RXSucc     1  3017     1  3016     0  RXFail    35     0    35     0  RXFailNoise    35     0    35     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 4 50 2 -4.680 
+ TxSucc     2     1     0  TxFail     0     0     1  RXSucc 44333 118993 81771 37222     0  RXFail  1119   883   236     0  RXFailNoise  1119   883   236     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost  1536389   899488 
+-4.680 -4.680  0.000   TxSucc     2     1     0  TxFail     0     0     1  RXSucc     2 43865     2 43863     0  RXFail   463     1   462     0  RXFailNoise   463     1   462     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 4 50 3 -4.680 
+ TxSucc     3     0     0  TxFail     0     0     0  RXSucc 15809 147691 81795 65896     0  RXFail   945   859    86     0  RXFailNoise   945   859    86     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost  1536392  1150251 
+-4.680 -4.680  0.000   TxSucc     3     0     0  TxFail     0     0     0  RXSucc     3 15672     3 15669     0  RXFail   132     0   132     0  RXFailNoise   132     0   132     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 4 50 4 -4.650 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc 18606 144606 81890 62716     0  RXFail  1234   765   469     0  RXFailNoise  1234   765   469     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost  1536392  1122503 
+-4.650 -4.650  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2 18439     2 18437     0  RXFail   161     0   161     0  RXFailNoise   161     0   161     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 

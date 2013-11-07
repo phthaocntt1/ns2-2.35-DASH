@@ -1,0 +1,12 @@
+1 4 50 1 -6.523 
+ TxSucc     1     0     0  TxFail     0     0     0  RXSucc  2701 140670 71030 69640     0  RXFail   980   708   272     0  RXFailNoise   980   708   272     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost  1669375  1416342 
+-6.448 -6.448  0.000   TxSucc     1     0     0  TxFail     0     0     0  RXSucc     1  2684     1  2683     0  RXFail     9     0     9     0  RXFailNoise     9     0     9     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 4 50 2  1.340 
+ TxSucc     3     0     0  TxFail     0     0     0  RXSucc 40809 109213 75446 33767     0  RXFail   778   762    16     0  RXFailNoise   778   762    16     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost  1620032  1033878 
+ 1.340  1.340  0.000   TxSucc     3     0     0  TxFail     0     0     0  RXSucc     3 40773     3 40770     0  RXFail    30     0    30     0  RXFailNoise    30     0    30     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 4 50 3  1.340 
+ TxSucc     3     0     0  TxFail     0     0     0  RXSucc 14122 135943 75481 60462     0  RXFail   735   727     8     0  RXFailNoise   735   727     8     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost  1620032  1267076 
+ 1.340  1.340  0.000   TxSucc     3     0     0  TxFail     0     0     0  RXSucc     3 14108     3 14105     0  RXFail     8     0     8     0  RXFailNoise     8     0     8     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
+1 4 50 4  1.370 
+ TxSucc     2     0     0  TxFail     0     0     0  RXSucc 16978 132828 75439 57389     0  RXFail   825   770    55     0  RXFailNoise   825   770    55     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost  1620542  1185445 
+ 1.370  1.370  0.000   TxSucc     2     0     0  TxFail     0     0     0  RXSucc     2 16958     2 16956     0  RXFail    13     0    13     0  RXFailNoise    13     0    13     0  SYN     0     0     0     0  TXA     0     0     0     0  IdleSlost        0        0 
